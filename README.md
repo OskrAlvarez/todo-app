@@ -1,6 +1,20 @@
 # React + Vite
 [Frontend Mentor](https://www.frontendmentor.io)
 
+[Vite Next Generation Frontend Tooling](https://vitejs.dev/)
+
+to run the app:
+---
+install dependecies
+
+```
+  pnpm install
+```
+for the server:
+```
+  pnpm run dev
+```
+
 this app can do the following topics: 
   - ✅ View the optimal layout for the app depending on their device's screen size
   - ✅ See hover states for all interactive elements on the page
@@ -29,7 +43,7 @@ this app can do the following topics:
 ## My process 
 its done with:
 - ⚛️ [React](https://reactjs.org/) - JS library
-- 💅 [Styled Componets](https://styled-components.com/) - CSS in JS Library
+- 💅 [Styled Components](https://styled-components.com/) - For Styles
 - 🐻 [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) - Global State Management 
 
 ## Author
